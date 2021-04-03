@@ -16,4 +16,4 @@ This code base contains the code used to download tweets from users based in Nig
 * [`analysis_misinfo.ipynb`](https://github.com/Gankara/CovidMisinfoInNigeria/tree/master/code/misinfo_analysis%20): Python notebook used to find tweets that contains keywords identified as being related to misinformation in Nigeria. 
 
 
-## THIS CODEBASE IS A DRAFT AND CURRENTLY STILL BEING UPDATE. PlEASE DO NOT SHARE WIDELY. 
+## THIS CODEBASE IS A DRAFT AND STILL BEING UPDATED. PlEASE DO NOT SHARE WIDELY. 
