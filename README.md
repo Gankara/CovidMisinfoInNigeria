@@ -1,6 +1,6 @@
 # COVID Misinformation in Nigeria
 
-This code base contains the code used to download tweets from users based in Nigeria from January 1st, 2020 to October 31st, 2020. We have some python scripts and notebooks for how we cleaned the data and some analysis on the tweets. We do not include the actual twitter data that we used for privacy reasons. The project is also still ongoing. You can view our [slide deck](https://docs.google.com/presentation/d/1484OVt3fEI1WVLKQyyVvMZQJcZwA0J1mfvQfH6CFllI/edit?usp=sharing) to get more information on the data we used and our future plans.  
+This code base contains the code used to download tweets from users based in Nigeria from January 1st, 2020 to October 31st, 2020. We have some python scripts and notebooks for how we cleaned the data and some analysis on the tweets. We do not include the actual twitter data that we used for privacy reasons. The project is also still ongoing. You can view our [slide deck](https://docs.google.com/presentation/d/1484OVt3fEI1WVLKQyyVvMZQJcZwA0J1mfvQfH6CFllI/edit?usp=sharing) to get more information on the data we used and our future plans for this project.  
 
 ### 1. Data Cleaning 
 
@@ -16,4 +16,4 @@ This code base contains the code used to download tweets from users based in Nig
 * [`analysis_misinfo.ipynb`](https://github.com/Gankara/CovidMisinfoInNigeria/tree/master/code/misinfo_analysis%20): Python notebook used to find tweets that contains keywords identified as being related to misinformation in Nigeria. 
 
 
-## THIS CODEBASE IS A DRAFT AND STILL BEING UPDATED. PlEASE DO NOT SHARE WIDELY. 
+## THIS CODEBASE IS A DRAFT AND STILL BEING UPDATED. PLEASE DO NOT SHARE WIDELY. 
